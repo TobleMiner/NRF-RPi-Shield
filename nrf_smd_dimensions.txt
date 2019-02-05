@@ -1,0 +1,6 @@
+nrf_size:
+width: 11,75 mm ~ 70 pixel
+pin_spacing: 0.168 mm ~ 1 pixel
+pin_width: 1.007 mm ~ 6 pixel
+pin_raster: 1.17 mm
+border: 0.671 mm ~ 4 pixel
